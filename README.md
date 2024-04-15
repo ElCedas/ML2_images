@@ -7,3 +7,5 @@ En caso de que no se pueda ver los resultados(se supone que son publicos), por f
 Para runnear el streamlit, correr este comando: streamlit run app_almost_final.py
 
 Hay imagenes que se pueden usar dentro del folder de imagenes de ejemplo para streamlit
+
+En el folder notebooks estan los notebooks en los que entrenamos los modelos, con sus resultados y validación.
